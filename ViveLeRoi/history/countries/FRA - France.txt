@@ -222,7 +222,7 @@ set_politics = {
 	elections_allowed = yes
 }
 set_popularities = {
-	fascism = 1
+	ultranationalism = 1
 	autocracy = 4
 	national_conservatism = 5
 	social_conservatism = 8

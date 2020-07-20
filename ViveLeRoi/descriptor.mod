@@ -1,4 +1,4 @@
-version="1.9.0"
+version="1.9.3"
 tags={
 	"Alternative History"
 	"Map"
@@ -12,4 +12,4 @@ tags={
 	"Technologies"
 }
 name="Vive Le Roi"
-supported_version="1.9.0"
+supported_version="1.9.3"
